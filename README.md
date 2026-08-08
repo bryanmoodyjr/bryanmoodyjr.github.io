@@ -8,8 +8,7 @@ Live site: [bryanmoodyjr.github.io](https://bryanmoodyjr.github.io/)
 
 - Ranked #8 of 82 nationally
 - Achieved 143% of annual quota
-- Generated 875 patient enrollments
-- Supported $3.94M in annualized treatment value
+- Supported $5.81M in annualized treatment value
 - Developed the FDNY EMS strategic account and earned formal Local 2507 support
 
 The site is intentionally lightweight and accessible, with no tracking scripts or external dependencies.
